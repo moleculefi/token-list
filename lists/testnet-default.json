@@ -15,7 +15,7 @@
       "symbol": "WPHRS",
       "decimals": 18,
       "chainId": 688688,
-      "logoURI": "https://tokens.pancakeswap.finance/images/symbol/weth.png"
+      "logoURI": "https://raw.githubusercontent.com/moleculefi/token-list/master/images/688688/0x1deD2C2CE290FC377FB75573f7113CeF55BFEa2d.png"
     },
     {
       "name": "Wrapped Ether",
@@ -23,7 +23,7 @@
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 688688,
-      "logoURI": "https://tokens.pancakeswap.finance/images/symbol/weth.png"
+      "logoURI": "https://raw.githubusercontent.com/moleculefi/token-list/master/images/688688/0x7A909ca53042a9D167203D611DCd75D4cf5dDf0a.png"
     },
     {
       "name": "Wrapped BTC",
@@ -31,7 +31,7 @@
       "symbol": "WBTC",
       "decimals": 18,
       "chainId": 688688,
-      "logoURI": "https://tokens.pancakeswap.finance/images/symbol/weth.png"
+      "logoURI": "https://raw.githubusercontent.com/moleculefi/token-list/master/images/688688/0x7A909ca53042a9D167203D611DCd75D4cf5dDf0a.png"
     },
     {
       "name": "Tether USD",
@@ -39,7 +39,7 @@
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 688688,
-      "logoURI": "https://tokens.pancakeswap.finance/images/symbol/weth.png"
+      "logoURI": "https://raw.githubusercontent.com/moleculefi/token-list/master/images/688688/0x07486aC80A8EDF7d89d6C5B0C6a1E8F658DF6cae.png"
     },
     {
       "name": "USD Coin",
@@ -47,7 +47,7 @@
       "symbol": "USDC",
       "decimals": 6,
       "chainId": 688688,
-      "logoURI": "https://tokens.pancakeswap.finance/images/symbol/weth.png"
+      "logoURI": "https://raw.githubusercontent.com/moleculefi/token-list/master/images/688688/0x45C4f9776A438D7A6a4B683F1cB1E444504C3038.png"
     }
   ]
 }

@@ -11,11 +11,11 @@
   "tokens": [
     {
       "name": "Wrapped PHRS",
-      "address": "0x1deD2C2CE290FC377FB75573f7113CeF55BFEa2d",
+      "address": "0xf0ab28d5AeCBF2588285FD931eb0c3D44A0ecFC0",
       "symbol": "WPHRS",
       "decimals": 18,
       "chainId": 688688,
-      "logoURI": "https://raw.githubusercontent.com/moleculefi/token-list/master/images/688688/0x1deD2C2CE290FC377FB75573f7113CeF55BFEa2d.png"
+      "logoURI": "https://raw.githubusercontent.com/moleculefi/token-list/master/images/688688/0xf0ab28d5aecbf2588285fd931eb0c3d44a0ecfc0.png"
     },
     {
       "name": "Wrapped Ether",

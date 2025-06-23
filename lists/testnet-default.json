@@ -10,12 +10,12 @@
   "keywords": ["moleculefi", "default", "pharos", "testnet"],
   "tokens": [
     {
-      "name": "Wrapped PHRS",
+      "name": "Wrapped Pharos",
       "address": "0xf0ab28d5AeCBF2588285FD931eb0c3D44A0ecFC0",
       "symbol": "WPHRS",
       "decimals": 18,
       "chainId": 688688,
-      "logoURI": "https://raw.githubusercontent.com/moleculefi/token-list/master/images/688688/0xf0ab28d5aecbf2588285fd931eb0c3d44a0ecfc0.png"
+      "logoURI": "https://raw.githubusercontent.com/moleculefi/token-list/refs/heads/master/images/688688/0xf0ab28d5AeCBF2588285FD931eb0c3D44A0ecFC0.png"
     },
     {
       "name": "Wrapped Ether",
@@ -23,7 +23,7 @@
       "symbol": "WETH",
       "decimals": 18,
       "chainId": 688688,
-      "logoURI": "https://raw.githubusercontent.com/moleculefi/token-list/master/images/688688/0x7A909ca53042a9D167203D611DCd75D4cf5dDf0a.png"
+      "logoURI": "https://raw.githubusercontent.com/moleculefi/token-list/refs/heads/master/images/688688/0x7A909ca53042a9D167203D611DCd75D4cf5dDf0a.png"
     },
     {
       "name": "Wrapped BTC",
@@ -31,7 +31,7 @@
       "symbol": "WBTC",
       "decimals": 18,
       "chainId": 688688,
-      "logoURI": "https://raw.githubusercontent.com/moleculefi/token-list/master/images/688688/0x7A909ca53042a9D167203D611DCd75D4cf5dDf0a.png"
+      "logoURI": "https://raw.githubusercontent.com/moleculefi/token-list/refs/heads/master/images/688688/0x7A909ca53042a9D167203D611DCd75D4cf5dDf0a.png"
     },
     {
       "name": "Tether USD",
@@ -39,7 +39,7 @@
       "symbol": "USDT",
       "decimals": 6,
       "chainId": 688688,
-      "logoURI": "https://raw.githubusercontent.com/moleculefi/token-list/master/images/688688/0x07486aC80A8EDF7d89d6C5B0C6a1E8F658DF6cae.png"
+      "logoURI": "https://raw.githubusercontent.com/moleculefi/token-list/refs/heads/master/images/688688/0x07486aC80A8EDF7d89d6C5B0C6a1E8F658DF6cae.png"
     },
     {
       "name": "USD Coin",
@@ -47,7 +47,15 @@
       "symbol": "USDC",
       "decimals": 6,
       "chainId": 688688,
-      "logoURI": "https://raw.githubusercontent.com/moleculefi/token-list/master/images/688688/0x45C4f9776A438D7A6a4B683F1cB1E444504C3038.png"
+      "logoURI": "https://raw.githubusercontent.com/moleculefi/token-list/refs/heads/master/images/688688/0x45C4f9776A438D7A6a4B683F1cB1E444504C3038.png"
+    },
+    {
+      "name": "Dai Stablecoin",
+      "address": "0xe0f771f8f4918205cef0f04c7ef60bdb839fb9ff",
+      "symbol": "DAI",
+      "decimals": 18,
+      "chainId": 688688,
+      "logoURI": "https://raw.githubusercontent.com/moleculefi/token-list/refs/heads/master/images/688688/0xe0f771f8f4918205cef0f04c7ef60bdb839fb9ff.png"
     }
   ]
 }

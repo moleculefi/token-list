@@ -10,6 +10,14 @@
   "keywords": ["moleculefi", "default", "pharos", "testnet"],
   "tokens": [
     {
+      "name": "MoleculeFi Token",
+      "address": "0x600Ba20a26e4362c7BcfCeE2Fe2b835aa554C2f6",
+      "symbol": "MOF",
+      "decimals": 18,
+      "chainId": 688688,
+      "logoURI": "https://raw.githubusercontent.com/moleculefi/token-list/refs/heads/master/images/688688/0x600ba20a26e4362c7bcfcee2fe2b835aa554c2f6.png"
+    },
+    {
       "name": "Wrapped Pharos",
       "address": "0xf0ab28d5AeCBF2588285FD931eb0c3D44A0ecFC0",
       "symbol": "WPHRS",

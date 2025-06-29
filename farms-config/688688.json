@@ -1,0 +1,31 @@
+[
+  {
+    "pid": 0,
+    "chainId": 688688,
+    "protocol": "v3",
+    "token0": {
+      "chainId": 688688,
+      "decimals": 6,
+      "symbol": "USDT",
+      "name": "Tether USD",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x07486ac80a8edf7d89d6c5b0c6a1e8f658df6cae",
+      "projectLink": "https://tether.to/"
+    },
+    "token1": {
+      "chainId": 688688,
+      "decimals": 6,
+      "symbol": "USDC",
+      "name": "USD Coin",
+      "isNative": false,
+      "isToken": true,
+      "address": "0x45c4f9776a438d7a6a4b683f1cb1e444504c3038",
+      "projectLink": "https://www.binance.org"
+    },
+    "lpAddress": "0x71f07d3a12c27b138fe01f231ccae2ab37a498e6",
+    "feeAmount": 500,
+    "isPinned": true,
+    "order": 2
+  }
+]
